@@ -6,4 +6,5 @@ extenciones:
 
 git bash
 - pip install matplotlib
+- pip install prettytable
 
